@@ -1,7 +1,0 @@
----
-title: Kitchen
-id: 43
-type: Folder
----
-
-**Synopsis:** Kitchen of Kassie’s home

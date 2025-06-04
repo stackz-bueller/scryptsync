@@ -1,7 +1,0 @@
----
-title: 1.0 Shadow Force
-id: 21
-type: Folder
----
-
-**Synopsis:** - Global ghost organization who works to prevent Maddox Group actions against world

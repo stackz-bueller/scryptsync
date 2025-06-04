@@ -1,7 +1,0 @@
----
-title: 1.2 - Hospital Staff
-id: 27
-type: Folder
----
-
-**Synopsis:** All of the coworkers of Claire, Kassie’s Mother

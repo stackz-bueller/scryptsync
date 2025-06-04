@@ -1,0 +1,7 @@
+---
+title: Location List
+id: 40
+type: Folder
+---
+
+**Synopsis:** List of all the graphical settings

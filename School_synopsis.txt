@@ -1,7 +1,0 @@
----
-title: School
-id: 50
-type: Folder
----
-
-**Synopsis:** Kassie’s School

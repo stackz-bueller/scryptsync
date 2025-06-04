@@ -1,0 +1,7 @@
+---
+title: Home
+id: 41
+type: Folder
+---
+
+**Synopsis:** Kassie and Claire’s Home

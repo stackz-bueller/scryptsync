@@ -1,0 +1,7 @@
+---
+title: Hospital
+id: 60
+type: Folder
+---
+
+**Synopsis:** Hospital where Claire works

@@ -1,7 +1,0 @@
----
-title: Sensei Lee Dojo
-id: 67
-type: Folder
----
-
-**Synopsis:** The Main and Private Dojo of Sensei Lee
